@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Draw-Robot-Remote-Control.ts"
     ],
     "testFiles": [
         "test.ts"
